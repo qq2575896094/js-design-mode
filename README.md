@@ -1,2 +1,2 @@
-# js-algorithm
-javascript algorithm
+# js-design-mode
+javascript design mode
